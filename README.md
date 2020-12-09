@@ -3,8 +3,8 @@
 Dies ist der Code zu meinem Udemy Kurs:
 *Deep Learning, Neuronale Netze und TensorFlow 2 in Python* von Jan Schaffranek.
 
-Erhalte den Kurs vom 7.11.2020 bis zum 7.12.2020 für nur 12,99€*.
-Rabatt-Link: [TensorFlow Kurs im Rabatt](https://www.udemy.com/course/deep-learning-grundlagen-neuronale-netzwerke-mit-tensorflow/?couponCode=FRANNECK_NOV_2020)
+Erhalte den Kurs vom 01.12.2020 bis zum 31.12.2020 zum aktuellen Bestpreis.
+Rabatt-Link: [TensorFlow Kurs im Rabatt](https://www.udemy.com/course/deep-learning-grundlagen-neuronale-netzwerke-mit-tensorflow/?couponCode=FRANNECK_DEC_2020)
 
 ## Bewertungen von Kursteilnehmern
 
@@ -46,12 +46,8 @@ Ebenfalls werde ich ihn auch immer auf dem neusten Stand der Technik und Wissens
 - Recurrent Neural Networks (RNN)
 - Reinforcement Learning (AI)
 
-## Warum sollte man TensorFlow und Keras verwenden
-
-- TensorFlow ist eine Open-Source Software Bibliothek von Google und  wird von einigen Big Playern weltweit genutzt, darunter sind z. B. Ebay, Dropbox, Snapchat, Twitter, SAP, IBM, Intel und Google!
-- Keras stellt eine Erweiterung von TensorFlow dar, damit schnell und unkompliziert Neuronale Netzwerke erstellt werden können.
-
-Werde noch heute ein Profi, in der Technologie von Morgen!Wir sehen uns im Kurs!
+Werde noch heute ein Profi, in der Technologie von Morgen!
+Wir sehen uns im Kurs!
 
 
 \* Alle Angaben ohne Gewähr
