@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 from tf_utils.taxiRoutingData import TAXIROUTING
 
 
-EXCEL_FILE_PATH = os.path.abspath("C:/Users/Jan/Dropbox/_Programmieren/UdemyTF/data/taxiDataset.xlsx")
+EXCEL_FILE_PATH = os.path.abspath("C:/Users/Jan/Dropbox/_Coding/UdemyTF/data/taxiDataset.xlsx")
 
 
 if __name__ == "__main__":

@@ -7,7 +7,7 @@ from tf_utils.taxiRoutingDataAdvanced import TAXIROUTING
 
 
 if __name__ == "__main__":
-    excel_file_path = os.path.abspath("C:/Users/Jan/Dropbox/_Programmieren/UdemyTF/data/taxiDataset.xlsx")
+    excel_file_path = os.path.abspath("C:/Users/Jan/Dropbox/_Coding/UdemyTF/data/taxiDataset.xlsx")
     data = TAXIROUTING(excel_file_path=excel_file_path)
 
     df = pd.DataFrame(data=data.x, columns=data.feature_names)

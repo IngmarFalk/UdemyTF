@@ -12,7 +12,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.optimizers import Adam
 
 
-LOGS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Programmieren/UdemyTF/logs/computation/")
+LOGS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Coding/UdemyTF/logs/computation/")
 MODEL_LOG_DIR = os.path.join(LOGS_DIR, "gradient_model")
 
 

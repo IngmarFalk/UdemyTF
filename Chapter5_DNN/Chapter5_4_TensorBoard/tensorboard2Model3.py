@@ -12,11 +12,11 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.utils import to_categorical
 
 
-MODELS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Programmieren/UdemyTF/models")
+MODELS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Coding/UdemyTF/models")
 if not os.path.exists(MODELS_DIR):
     os.mkdir(MODELS_DIR)
 MODEL_FILE_PATH = os.path.join(MODELS_DIR, "mnist_model.h5")
-LOGS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Programmieren/UdemyTF/logs")
+LOGS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Coding/UdemyTF/logs")
 if not os.path.exists(LOGS_DIR):
     os.mkdir(LOGS_DIR)
 MODEL_LOG_DIR = os.path.join(LOGS_DIR, "mnist_model3")

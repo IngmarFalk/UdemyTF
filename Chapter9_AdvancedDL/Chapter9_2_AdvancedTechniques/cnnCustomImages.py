@@ -36,11 +36,11 @@ tf.random.set_seed(0)
 
 
 CUSTOM_IMAGES_DIR = os.path.abspath("C:/Users/Jan/Documents/DogsAndCats/custom")
-MODELS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Programmieren/UdemyTF/models/")
+MODELS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Coding/UdemyTF/models/")
 if not os.path.exists(MODELS_DIR):
     os.mkdir(MODELS_DIR)
 MODEL_FILE_PATH = os.path.join(MODELS_DIR, "dogs_cats.h5")
-LOGS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Programmieren/UdemyTF/logs/")
+LOGS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Coding/UdemyTF/logs/")
 if not os.path.exists(LOGS_DIR):
     os.mkdir(LOGS_DIR)
 

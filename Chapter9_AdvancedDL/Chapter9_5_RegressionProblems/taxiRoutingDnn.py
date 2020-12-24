@@ -9,7 +9,7 @@ from tensorflow.keras.optimizers import Adam
 from tf_utils.taxiRoutingDataAdvanced import TAXIROUTING
 
 
-EXCEL_FILE_PATH = os.path.abspath("C:/Users/Jan/Dropbox/_Programmieren/UdemyTF/data/taxiDataset.xlsx")
+EXCEL_FILE_PATH = os.path.abspath("C:/Users/Jan/Dropbox/_Coding/UdemyTF/data/taxiDataset.xlsx")
 
 
 def r_squared(y_true: tf.Tensor, y_pred: tf.Tensor) -> tf.Tensor:

@@ -11,7 +11,7 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.utils import to_categorical
 
 
-MODELS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Programmieren/UdemyTF/models")
+MODELS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Coding/UdemyTF/models")
 MODEL_FILE_PATH = os.path.join(MODELS_DIR, "mnist_model.h5")
 
 

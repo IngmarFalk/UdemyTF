@@ -22,7 +22,7 @@ from tf_utils.cifarDataAdvanced import CIFAR10
 np.random.seed(0)
 tf.random.set_seed(0)
 
-LOGS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Programmieren/UdemyTF/logs")
+LOGS_DIR = os.path.abspath("C:/Users/Jan/Dropbox/_Coding/UdemyTF/logs")
 if not os.path.exists(LOGS_DIR):
     os.mkdir(LOGS_DIR)
 

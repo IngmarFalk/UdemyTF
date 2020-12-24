@@ -14,11 +14,11 @@ from tensorflow.keras.utils import to_categorical
 from tf_utils.callbacks import ConfusionMatrix
 
 
-MODEL_DIR = os.path.abspath("C:/Users/jan/Dropbox/_Programmieren/UdemyTF/models")
+MODEL_DIR = os.path.abspath("C:/Users/jan/Dropbox/_Coding/UdemyTF/models")
 if not os.path.exists(MODEL_DIR):
     os.mkdir(MODEL_DIR)
 MODEL_FILE_PATH = os.path.join(MODEL_DIR, "mnist_model.h5")
-LOGS_DIR = os.path.abspath("C:/Users/jan/Dropbox/_Programmieren/UdemyTF/logs/")
+LOGS_DIR = os.path.abspath("C:/Users/jan/Dropbox/_Coding/UdemyTF/logs/")
 if not os.path.exists(LOGS_DIR):
     os.mkdir(LOGS_DIR)
 MODEL_LOG_DIR = os.path.join(LOGS_DIR, "mnist_cm")
