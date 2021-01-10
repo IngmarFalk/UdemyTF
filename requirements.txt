@@ -7,12 +7,10 @@ tensorflow-addons
 scikit-learn
 scipy
 scikit-image
-numpy
+numpy==1.19.2
 matplotlib
 pandas
 opencv-python
-pygame
-gym
 pyqt5
 
 # Linting/Tooling
